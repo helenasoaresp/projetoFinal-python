@@ -1,0 +1,210 @@
+2026-11-23 13:40:37,401 INFO Iniciando processamento do painel
+2026-11-23 13:40:37,409 INFO Processamento concluído: 32 alunos
+2026-11-23 13:40:37,409 WARNING alunos.csv:7 matrícula 1004 já cadastrada
+2026-11-23 13:40:37,409 WARNING alunos.csv:15 campo vazio: nome
+2026-11-23 13:40:37,409 WARNING alunos.csv:23 matricula inválida (10x7)
+2026-11-23 13:40:37,409 WARNING notas.csv:3 matrícula inexistente (1033)
+2026-11-23 13:40:37,409 WARNING notas.csv:35 campo vazio: nota
+2026-11-23 13:40:37,409 WARNING notas.csv:51 campo vazio: nota
+2026-11-23 13:40:37,409 WARNING notas.csv:52 nota inválida ('--')
+2026-11-23 13:40:37,409 WARNING notas.csv:65 nota fora do intervalo ('12')
+2026-11-23 13:40:37,409 WARNING notas.csv:80 avaliação duplicada 1032/História/P2
+2026-11-23 13:40:37,409 WARNING notas.csv:114 nota fora do intervalo ('11.0')
+2026-11-23 13:40:37,409 WARNING notas.csv:123 matrícula inexistente (9999)
+2026-11-23 13:40:37,409 WARNING notas.csv:162 matrícula inexistente (2001)
+2026-11-23 13:40:37,409 WARNING notas.csv:167 matrícula inexistente (1099)
+2026-11-23 13:40:37,409 WARNING notas.csv:177 campo vazio: avaliacao
+2026-11-23 13:40:37,409 WARNING notas.csv:180 nota fora do intervalo ('100')
+2026-11-23 13:40:37,409 WARNING notas.csv:206 nota fora do intervalo ('10.5')
+2026-11-23 13:40:37,409 WARNING notas.csv:215 avaliação duplicada 1027/Física/P2
+2026-11-23 13:40:37,409 WARNING notas.csv:217 nota inválida ('dez')
+2026-11-23 13:40:37,409 WARNING notas.csv:238 nota fora do intervalo ('-1.0')
+2026-11-23 13:40:37,409 WARNING notas.csv:240 avaliação duplicada 1008/Inglês/P2
+2026-11-23 13:40:37,409 WARNING notas.csv:269 nota inválida ('abc')
+2026-11-23 13:40:37,409 WARNING notas.csv:312 nota fora do intervalo ('-0.5')
+2026-11-23 13:40:37,409 WARNING notas.csv:330 nota inválida ('oito')
+2026-11-23 13:40:37,409 WARNING notas.csv:342 campo vazio: matricula
+2026-11-23 13:40:37,409 WARNING notas.csv:395 campo vazio: disciplina
+2026-11-23 13:40:37,409 WARNING notas.csv:456 nota inválida ('7.5.0')
+2026-11-23 13:40:37,409 WARNING notas.csv:460 campo vazio: nota
+2026-11-23 13:40:37,409 WARNING notas.csv:464 matrícula inexistente (1000)
+2026-11-23 13:40:46,544 INFO Iniciando processamento do painel
+2026-11-23 13:40:46,548 INFO Processamento concluído: 32 alunos
+2026-11-23 13:40:46,549 WARNING alunos.csv:7 matrícula 1004 já cadastrada
+2026-11-23 13:40:46,549 WARNING alunos.csv:15 campo vazio: nome
+2026-11-23 13:40:46,549 WARNING alunos.csv:23 matricula inválida (10x7)
+2026-11-23 13:40:46,549 WARNING notas.csv:3 matrícula inexistente (1033)
+2026-11-23 13:40:46,549 WARNING notas.csv:35 campo vazio: nota
+2026-11-23 13:40:46,549 WARNING notas.csv:51 campo vazio: nota
+2026-11-23 13:40:46,549 WARNING notas.csv:52 nota inválida ('--')
+2026-11-23 13:40:46,549 WARNING notas.csv:65 nota fora do intervalo ('12')
+2026-11-23 13:40:46,549 WARNING notas.csv:80 avaliação duplicada 1032/História/P2
+2026-11-23 13:40:46,549 WARNING notas.csv:114 nota fora do intervalo ('11.0')
+2026-11-23 13:40:46,549 WARNING notas.csv:123 matrícula inexistente (9999)
+2026-11-23 13:40:46,549 WARNING notas.csv:162 matrícula inexistente (2001)
+2026-11-23 13:40:46,549 WARNING notas.csv:167 matrícula inexistente (1099)
+2026-11-23 13:40:46,549 WARNING notas.csv:177 campo vazio: avaliacao
+2026-11-23 13:40:46,549 WARNING notas.csv:180 nota fora do intervalo ('100')
+2026-11-23 13:40:46,549 WARNING notas.csv:206 nota fora do intervalo ('10.5')
+2026-11-23 13:40:46,549 WARNING notas.csv:215 avaliação duplicada 1027/Física/P2
+2026-11-23 13:40:46,549 WARNING notas.csv:217 nota inválida ('dez')
+2026-11-23 13:40:46,549 WARNING notas.csv:238 nota fora do intervalo ('-1.0')
+2026-11-23 13:40:46,549 WARNING notas.csv:240 avaliação duplicada 1008/Inglês/P2
+2026-11-23 13:40:46,549 WARNING notas.csv:269 nota inválida ('abc')
+2026-11-23 13:40:46,549 WARNING notas.csv:312 nota fora do intervalo ('-0.5')
+2026-11-23 13:40:46,549 WARNING notas.csv:330 nota inválida ('oito')
+2026-11-23 13:40:46,549 WARNING notas.csv:342 campo vazio: matricula
+2026-11-23 13:40:46,549 WARNING notas.csv:395 campo vazio: disciplina
+2026-11-23 13:40:46,549 WARNING notas.csv:456 nota inválida ('7.5.0')
+2026-11-23 13:40:46,549 WARNING notas.csv:460 campo vazio: nota
+2026-11-23 13:40:46,549 WARNING notas.csv:464 matrícula inexistente (1000)
+2026-11-23 13:40:56,877 INFO Iniciando processamento do painel
+2026-11-23 13:40:56,880 INFO Processamento concluído: 32 alunos
+2026-11-23 13:40:56,880 WARNING alunos.csv:7 matrícula 1004 já cadastrada
+2026-11-23 13:40:56,880 WARNING alunos.csv:15 campo vazio: nome
+2026-11-23 13:40:56,880 WARNING alunos.csv:23 matricula inválida (10x7)
+2026-11-23 13:40:56,880 WARNING notas.csv:3 matrícula inexistente (1033)
+2026-11-23 13:40:56,880 WARNING notas.csv:35 campo vazio: nota
+2026-11-23 13:40:56,880 WARNING notas.csv:51 campo vazio: nota
+2026-11-23 13:40:56,880 WARNING notas.csv:52 nota inválida ('--')
+2026-11-23 13:40:56,880 WARNING notas.csv:65 nota fora do intervalo ('12')
+2026-11-23 13:40:56,880 WARNING notas.csv:80 avaliação duplicada 1032/História/P2
+2026-11-23 13:40:56,880 WARNING notas.csv:114 nota fora do intervalo ('11.0')
+2026-11-23 13:40:56,880 WARNING notas.csv:123 matrícula inexistente (9999)
+2026-11-23 13:40:56,880 WARNING notas.csv:162 matrícula inexistente (2001)
+2026-11-23 13:40:56,880 WARNING notas.csv:167 matrícula inexistente (1099)
+2026-11-23 13:40:56,880 WARNING notas.csv:177 campo vazio: avaliacao
+2026-11-23 13:40:56,880 WARNING notas.csv:180 nota fora do intervalo ('100')
+2026-11-23 13:40:56,880 WARNING notas.csv:206 nota fora do intervalo ('10.5')
+2026-11-23 13:40:56,880 WARNING notas.csv:215 avaliação duplicada 1027/Física/P2
+2026-11-23 13:40:56,880 WARNING notas.csv:217 nota inválida ('dez')
+2026-11-23 13:40:56,880 WARNING notas.csv:238 nota fora do intervalo ('-1.0')
+2026-11-23 13:40:56,880 WARNING notas.csv:240 avaliação duplicada 1008/Inglês/P2
+2026-11-23 13:40:56,880 WARNING notas.csv:269 nota inválida ('abc')
+2026-11-23 13:40:56,880 WARNING notas.csv:312 nota fora do intervalo ('-0.5')
+2026-11-23 13:40:56,880 WARNING notas.csv:330 nota inválida ('oito')
+2026-11-23 13:40:56,880 WARNING notas.csv:342 campo vazio: matricula
+2026-11-23 13:40:56,880 WARNING notas.csv:395 campo vazio: disciplina
+2026-11-23 13:40:56,880 WARNING notas.csv:456 nota inválida ('7.5.0')
+2026-11-23 13:40:56,880 WARNING notas.csv:460 campo vazio: nota
+2026-11-23 13:40:56,880 WARNING notas.csv:464 matrícula inexistente (1000)
+2026-11-23 13:42:05,315 INFO Iniciando processamento do painel
+2026-11-23 13:42:05,319 INFO Processamento concluído: 32 alunos
+2026-11-23 13:42:05,319 WARNING alunos.csv:7 matrícula 1004 já cadastrada
+2026-11-23 13:42:05,319 WARNING alunos.csv:15 campo vazio: nome
+2026-11-23 13:42:05,319 WARNING alunos.csv:23 matricula inválida (10x7)
+2026-11-23 13:42:05,319 WARNING notas.csv:3 matrícula inexistente (1033)
+2026-11-23 13:42:05,319 WARNING notas.csv:35 campo vazio: nota
+2026-11-23 13:42:05,319 WARNING notas.csv:51 campo vazio: nota
+2026-11-23 13:42:05,319 WARNING notas.csv:52 nota inválida ('--')
+2026-11-23 13:42:05,319 WARNING notas.csv:65 nota fora do intervalo ('12')
+2026-11-23 13:42:05,319 WARNING notas.csv:80 avaliação duplicada 1032/História/P2
+2026-11-23 13:42:05,319 WARNING notas.csv:114 nota fora do intervalo ('11.0')
+2026-11-23 13:42:05,319 WARNING notas.csv:123 matrícula inexistente (9999)
+2026-11-23 13:42:05,319 WARNING notas.csv:162 matrícula inexistente (2001)
+2026-11-23 13:42:05,319 WARNING notas.csv:167 matrícula inexistente (1099)
+2026-11-23 13:42:05,319 WARNING notas.csv:177 campo vazio: avaliacao
+2026-11-23 13:42:05,319 WARNING notas.csv:180 nota fora do intervalo ('100')
+2026-11-23 13:42:05,319 WARNING notas.csv:206 nota fora do intervalo ('10.5')
+2026-11-23 13:42:05,319 WARNING notas.csv:215 avaliação duplicada 1027/Física/P2
+2026-11-23 13:42:05,319 WARNING notas.csv:217 nota inválida ('dez')
+2026-11-23 13:42:05,319 WARNING notas.csv:238 nota fora do intervalo ('-1.0')
+2026-11-23 13:42:05,319 WARNING notas.csv:240 avaliação duplicada 1008/Inglês/P2
+2026-11-23 13:42:05,319 WARNING notas.csv:269 nota inválida ('abc')
+2026-11-23 13:42:05,319 WARNING notas.csv:312 nota fora do intervalo ('-0.5')
+2026-11-23 13:42:05,319 WARNING notas.csv:330 nota inválida ('oito')
+2026-11-23 13:42:05,319 WARNING notas.csv:342 campo vazio: matricula
+2026-11-23 13:42:05,319 WARNING notas.csv:395 campo vazio: disciplina
+2026-11-23 13:42:05,319 WARNING notas.csv:456 nota inválida ('7.5.0')
+2026-11-23 13:42:05,319 WARNING notas.csv:460 campo vazio: nota
+2026-11-23 13:42:05,319 WARNING notas.csv:464 matrícula inexistente (1000)
+2026-11-23 13:48:06,180 INFO Iniciando processamento do painel
+2026-11-23 13:48:06,183 INFO Processamento concluído: 32 alunos
+2026-11-23 13:48:06,183 WARNING alunos.csv:7 matrícula 1004 já cadastrada
+2026-11-23 13:48:06,183 WARNING alunos.csv:15 campo vazio: nome
+2026-11-23 13:48:06,183 WARNING alunos.csv:23 matricula inválida (10x7)
+2026-11-23 13:48:06,183 WARNING notas.csv:3 matrícula inexistente (1033)
+2026-11-23 13:48:06,183 WARNING notas.csv:35 campo vazio: nota
+2026-11-23 13:48:06,183 WARNING notas.csv:51 campo vazio: nota
+2026-11-23 13:48:06,183 WARNING notas.csv:52 nota inválida ('--')
+2026-11-23 13:48:06,183 WARNING notas.csv:65 nota fora do intervalo ('12')
+2026-11-23 13:48:06,183 WARNING notas.csv:80 avaliação duplicada 1032/História/P2
+2026-11-23 13:48:06,183 WARNING notas.csv:114 nota fora do intervalo ('11.0')
+2026-11-23 13:48:06,183 WARNING notas.csv:123 matrícula inexistente (9999)
+2026-11-23 13:48:06,183 WARNING notas.csv:162 matrícula inexistente (2001)
+2026-11-23 13:48:06,183 WARNING notas.csv:167 matrícula inexistente (1099)
+2026-11-23 13:48:06,183 WARNING notas.csv:177 campo vazio: avaliacao
+2026-11-23 13:48:06,183 WARNING notas.csv:180 nota fora do intervalo ('100')
+2026-11-23 13:48:06,183 WARNING notas.csv:206 nota fora do intervalo ('10.5')
+2026-11-23 13:48:06,183 WARNING notas.csv:215 avaliação duplicada 1027/Física/P2
+2026-11-23 13:48:06,183 WARNING notas.csv:217 nota inválida ('dez')
+2026-11-23 13:48:06,183 WARNING notas.csv:238 nota fora do intervalo ('-1.0')
+2026-11-23 13:48:06,183 WARNING notas.csv:240 avaliação duplicada 1008/Inglês/P2
+2026-11-23 13:48:06,183 WARNING notas.csv:269 nota inválida ('abc')
+2026-11-23 13:48:06,183 WARNING notas.csv:312 nota fora do intervalo ('-0.5')
+2026-11-23 13:48:06,183 WARNING notas.csv:330 nota inválida ('oito')
+2026-11-23 13:48:06,183 WARNING notas.csv:342 campo vazio: matricula
+2026-11-23 13:48:06,183 WARNING notas.csv:395 campo vazio: disciplina
+2026-11-23 13:48:06,183 WARNING notas.csv:456 nota inválida ('7.5.0')
+2026-11-23 13:48:06,183 WARNING notas.csv:460 campo vazio: nota
+2026-11-23 13:48:06,183 WARNING notas.csv:464 matrícula inexistente (1000)
+2026-11-23 13:48:11,305 INFO Iniciando processamento do painel
+2026-11-23 13:48:11,308 INFO Processamento concluído: 32 alunos
+2026-11-23 13:48:11,308 WARNING alunos.csv:7 matrícula 1004 já cadastrada
+2026-11-23 13:48:11,308 WARNING alunos.csv:15 campo vazio: nome
+2026-11-23 13:48:11,308 WARNING alunos.csv:23 matricula inválida (10x7)
+2026-11-23 13:48:11,308 WARNING notas.csv:3 matrícula inexistente (1033)
+2026-11-23 13:48:11,308 WARNING notas.csv:35 campo vazio: nota
+2026-11-23 13:48:11,308 WARNING notas.csv:51 campo vazio: nota
+2026-11-23 13:48:11,308 WARNING notas.csv:52 nota inválida ('--')
+2026-11-23 13:48:11,308 WARNING notas.csv:65 nota fora do intervalo ('12')
+2026-11-23 13:48:11,308 WARNING notas.csv:80 avaliação duplicada 1032/História/P2
+2026-11-23 13:48:11,308 WARNING notas.csv:114 nota fora do intervalo ('11.0')
+2026-11-23 13:48:11,308 WARNING notas.csv:123 matrícula inexistente (9999)
+2026-11-23 13:48:11,309 WARNING notas.csv:162 matrícula inexistente (2001)
+2026-11-23 13:48:11,309 WARNING notas.csv:167 matrícula inexistente (1099)
+2026-11-23 13:48:11,309 WARNING notas.csv:177 campo vazio: avaliacao
+2026-11-23 13:48:11,309 WARNING notas.csv:180 nota fora do intervalo ('100')
+2026-11-23 13:48:11,309 WARNING notas.csv:206 nota fora do intervalo ('10.5')
+2026-11-23 13:48:11,309 WARNING notas.csv:215 avaliação duplicada 1027/Física/P2
+2026-11-23 13:48:11,309 WARNING notas.csv:217 nota inválida ('dez')
+2026-11-23 13:48:11,309 WARNING notas.csv:238 nota fora do intervalo ('-1.0')
+2026-11-23 13:48:11,309 WARNING notas.csv:240 avaliação duplicada 1008/Inglês/P2
+2026-11-23 13:48:11,309 WARNING notas.csv:269 nota inválida ('abc')
+2026-11-23 13:48:11,309 WARNING notas.csv:312 nota fora do intervalo ('-0.5')
+2026-11-23 13:48:11,309 WARNING notas.csv:330 nota inválida ('oito')
+2026-11-23 13:48:11,309 WARNING notas.csv:342 campo vazio: matricula
+2026-11-23 13:48:11,309 WARNING notas.csv:395 campo vazio: disciplina
+2026-11-23 13:48:11,309 WARNING notas.csv:456 nota inválida ('7.5.0')
+2026-11-23 13:48:11,309 WARNING notas.csv:460 campo vazio: nota
+2026-11-23 13:48:11,309 WARNING notas.csv:464 matrícula inexistente (1000)
+2026-11-23 14:12:24,882 INFO Iniciando processamento do painel
+2026-11-23 14:12:24,885 INFO Processamento concluído: 32 alunos
+2026-11-23 14:12:24,885 WARNING alunos.csv:7 matrícula 1004 já cadastrada
+2026-11-23 14:12:24,885 WARNING alunos.csv:15 campo vazio: nome
+2026-11-23 14:12:24,885 WARNING alunos.csv:23 matricula inválida (10x7)
+2026-11-23 14:12:24,885 WARNING notas.csv:3 matrícula inexistente (1033)
+2026-11-23 14:12:24,885 WARNING notas.csv:35 campo vazio: nota
+2026-11-23 14:12:24,885 WARNING notas.csv:51 campo vazio: nota
+2026-11-23 14:12:24,885 WARNING notas.csv:52 nota inválida ('--')
+2026-11-23 14:12:24,885 WARNING notas.csv:65 nota fora do intervalo ('12')
+2026-11-23 14:12:24,885 WARNING notas.csv:80 avaliação duplicada 1032/História/P2
+2026-11-23 14:12:24,885 WARNING notas.csv:114 nota fora do intervalo ('11.0')
+2026-11-23 14:12:24,885 WARNING notas.csv:123 matrícula inexistente (9999)
+2026-11-23 14:12:24,885 WARNING notas.csv:162 matrícula inexistente (2001)
+2026-11-23 14:12:24,885 WARNING notas.csv:167 matrícula inexistente (1099)
+2026-11-23 14:12:24,885 WARNING notas.csv:177 campo vazio: avaliacao
+2026-11-23 14:12:24,885 WARNING notas.csv:180 nota fora do intervalo ('100')
+2026-11-23 14:12:24,885 WARNING notas.csv:206 nota fora do intervalo ('10.5')
+2026-11-23 14:12:24,885 WARNING notas.csv:215 avaliação duplicada 1027/Física/P2
+2026-11-23 14:12:24,885 WARNING notas.csv:217 nota inválida ('dez')
+2026-11-23 14:12:24,885 WARNING notas.csv:238 nota fora do intervalo ('-1.0')
+2026-11-23 14:12:24,885 WARNING notas.csv:240 avaliação duplicada 1008/Inglês/P2
+2026-11-23 14:12:24,885 WARNING notas.csv:269 nota inválida ('abc')
+2026-11-23 14:12:24,885 WARNING notas.csv:312 nota fora do intervalo ('-0.5')
+2026-11-23 14:12:24,885 WARNING notas.csv:330 nota inválida ('oito')
+2026-11-23 14:12:24,885 WARNING notas.csv:342 campo vazio: matricula
+2026-11-23 14:12:24,885 WARNING notas.csv:395 campo vazio: disciplina
+2026-11-23 14:12:24,885 WARNING notas.csv:456 nota inválida ('7.5.0')
+2026-11-23 14:12:24,885 WARNING notas.csv:460 campo vazio: nota
+2026-11-23 14:12:24,885 WARNING notas.csv:464 matrícula inexistente (1000)

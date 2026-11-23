@@ -1,0 +1,380 @@
+{
+  "alunos_processados": 32,
+  "notas_validas": 458,
+  "notas_invalidas": 25,
+  "alunos": [
+    {
+      "matricula": 1001,
+      "nome": "Ana Souza",
+      "turma": "3A",
+      "media": 8.05,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1026,
+      "nome": "Arthur Machado",
+      "turma": "3B",
+      "media": 4.25,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1027,
+      "nome": "Beatriz Fontes",
+      "turma": "3C",
+      "media": 2.71,
+      "situacao": "reprovado"
+    },
+    {
+      "matricula": 1002,
+      "nome": "Bruno Lima",
+      "turma": "3B",
+      "media": 7.89,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1028,
+      "nome": "Caio Vasconcelos",
+      "turma": "3A",
+      "media": 6.62,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1003,
+      "nome": "Carla Dias",
+      "turma": "3C",
+      "media": 6.91,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1004,
+      "nome": "Daniel Rocha",
+      "turma": "3A",
+      "media": 6.22,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1029,
+      "nome": "Diana Siqueira",
+      "turma": "3B",
+      "media": 7.35,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1005,
+      "nome": "Eduarda Martins",
+      "turma": "3B",
+      "media": 7.28,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1030,
+      "nome": "Enzo Borges",
+      "turma": "3C",
+      "media": 9.14,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1006,
+      "nome": "Felipe Andrade",
+      "turma": "3C",
+      "media": 6.89,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1031,
+      "nome": "Fernanda Leal",
+      "turma": "3A",
+      "media": 5.66,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1007,
+      "nome": "Gabriela Nunes",
+      "turma": "3A",
+      "media": 6.95,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1032,
+      "nome": "Guilherme Torres",
+      "turma": "3B",
+      "media": 5.96,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1008,
+      "nome": "Henrique Costa",
+      "turma": "3B",
+      "media": 9.35,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1009,
+      "nome": "Isabela Prado",
+      "turma": "3C",
+      "media": 6.59,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1010,
+      "nome": "João Pedro Alves",
+      "turma": "3A",
+      "media": 7.58,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1011,
+      "nome": "Karina Moreira",
+      "turma": "3B",
+      "media": 4.65,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1012,
+      "nome": "Leonardo Teixeira",
+      "turma": "3C",
+      "media": 4.66,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1013,
+      "nome": "Marina Ferreira",
+      "turma": "3A",
+      "media": 5.63,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1014,
+      "nome": "Nicolas Barros",
+      "turma": "3B",
+      "media": 4.79,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1015,
+      "nome": "Olívia Ribeiro",
+      "turma": "3C",
+      "media": 6.03,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1016,
+      "nome": "Paulo Henrique Cunha",
+      "turma": "3A",
+      "media": 4.45,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1017,
+      "nome": "Quésia Lopes",
+      "turma": "3B",
+      "media": 3.59,
+      "situacao": "reprovado"
+    },
+    {
+      "matricula": 1018,
+      "nome": "Rafael Monteiro",
+      "turma": "3C",
+      "media": 3.26,
+      "situacao": "reprovado"
+    },
+    {
+      "matricula": 1019,
+      "nome": "Sofia Carvalho",
+      "turma": "3A",
+      "media": 4.11,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1020,
+      "nome": "Thiago Azevedo",
+      "turma": "3B",
+      "media": 5.72,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1022,
+      "nome": "Vitor Hugo Melo",
+      "turma": "3A",
+      "media": 7.99,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1023,
+      "nome": "Wesley Santana",
+      "turma": "3B",
+      "media": 5.51,
+      "situacao": "recuperação"
+    },
+    {
+      "matricula": 1024,
+      "nome": "Yasmin Duarte",
+      "turma": "3C",
+      "media": 6.55,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1025,
+      "nome": "Zélia Campos",
+      "turma": "3A",
+      "media": 8.38,
+      "situacao": "aprovado"
+    },
+    {
+      "matricula": 1021,
+      "nome": "Úrsula Pinto",
+      "turma": "3C",
+      "media": 7.53,
+      "situacao": "aprovado"
+    }
+  ],
+  "medias_por_disciplina": {
+    "Física": 6.29,
+    "História": 6.31,
+    "Inglês": 6.02,
+    "Matemática": 6.34,
+    "Português": 6.18
+  },
+  "erros": [
+    {
+      "arquivo": "alunos.csv",
+      "linha": 7,
+      "mensagem": "matrícula 1004 já cadastrada"
+    },
+    {
+      "arquivo": "alunos.csv",
+      "linha": 15,
+      "mensagem": "campo vazio: nome"
+    },
+    {
+      "arquivo": "alunos.csv",
+      "linha": 23,
+      "mensagem": "matricula inválida (10x7)"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 3,
+      "mensagem": "matrícula inexistente (1033)"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 35,
+      "mensagem": "campo vazio: nota"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 51,
+      "mensagem": "campo vazio: nota"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 52,
+      "mensagem": "nota inválida ('--')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 65,
+      "mensagem": "nota fora do intervalo ('12')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 80,
+      "mensagem": "avaliação duplicada 1032/História/P2"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 114,
+      "mensagem": "nota fora do intervalo ('11.0')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 123,
+      "mensagem": "matrícula inexistente (9999)"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 162,
+      "mensagem": "matrícula inexistente (2001)"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 167,
+      "mensagem": "matrícula inexistente (1099)"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 177,
+      "mensagem": "campo vazio: avaliacao"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 180,
+      "mensagem": "nota fora do intervalo ('100')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 206,
+      "mensagem": "nota fora do intervalo ('10.5')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 215,
+      "mensagem": "avaliação duplicada 1027/Física/P2"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 217,
+      "mensagem": "nota inválida ('dez')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 238,
+      "mensagem": "nota fora do intervalo ('-1.0')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 240,
+      "mensagem": "avaliação duplicada 1008/Inglês/P2"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 269,
+      "mensagem": "nota inválida ('abc')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 312,
+      "mensagem": "nota fora do intervalo ('-0.5')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 330,
+      "mensagem": "nota inválida ('oito')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 342,
+      "mensagem": "campo vazio: matricula"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 395,
+      "mensagem": "campo vazio: disciplina"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 456,
+      "mensagem": "nota inválida ('7.5.0')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 460,
+      "mensagem": "campo vazio: nota"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 464,
+      "mensagem": "matrícula inexistente (1000)"
+    }
+  ]
+}
