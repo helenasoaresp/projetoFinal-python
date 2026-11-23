@@ -322,7 +322,8 @@ matricula,disciplina,avaliacao,nota
 1016,Inglês,P2,3.4
 1027,Inglês,P2,4.5
 1002,Matemática,T1,4.9
-1014,Matemática,P2,9
+1014,Matemática,P2,NA
+1008,Física,P1,10.0
 1008,Física,P1,10.0
 1018,Matemática,P1,5.3
 1001,Física,T1,8.1

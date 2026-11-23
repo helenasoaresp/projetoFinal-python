@@ -30,6 +30,7 @@ class TestValidacaoMetricas(unittest.TestCase):
         self.assertFalse(validar_matricula("10x1"))
         self.assertEqual(validar_nota("8.5", 10.0), (8.5, None))
         self.assertEqual(validar_nota("11", 10.0)[1], "nota_fora_do_intervalo")
+        self.assertEqual(validar_nota("nan", 10.0)[1], "nota_fora_do_intervalo")
         self.assertEqual(validar_nota("oito", 10.0)[1], "nota_invalida")
 
     def test_medias_por_disciplina(self):

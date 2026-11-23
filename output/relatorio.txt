@@ -1,6 +1,6 @@
 PAINEL DE NOTAS — RESUMO
 Alunos processados: 32
-Registros de nota válidos: 458 | inválidos: 25
+Registros de nota válidos: 457 | inválidos: 27
 
 Situação dos alunos
   Ana Souza            3A  média 8.05  aprovado
@@ -23,7 +23,7 @@ Situação dos alunos
   Karina Moreira       3B  média 4.65  recuperação
   Leonardo Teixeira    3C  média 4.66  recuperação
   Marina Ferreira      3A  média 5.63  recuperação
-  Nicolas Barros       3B  média 4.79  recuperação
+  Nicolas Barros       3B  média 4.49  recuperação
   Olívia Ribeiro       3C  média 6.03  aprovado
   Paulo Henrique Cunha 3A  média 4.45  recuperação
   Quésia Lopes         3B  média 3.59  reprovado
@@ -40,10 +40,10 @@ Média por disciplina
   Física       6.29
   História     6.31
   Inglês       6.02
-  Matemática   6.34
+  Matemática   6.31
   Português    6.18
 
-Erros encontrados (28)
+Erros encontrados (30)
   alunos.csv:7 matrícula 1004 já cadastrada
   alunos.csv:15 campo vazio: nome
   alunos.csv:23 matricula inválida (10x7)
@@ -66,9 +66,11 @@ Erros encontrados (28)
   notas.csv:240 avaliação duplicada 1008/Inglês/P2
   notas.csv:269 nota inválida ('abc')
   notas.csv:312 nota fora do intervalo ('-0.5')
-  notas.csv:330 nota inválida ('oito')
-  notas.csv:342 campo vazio: matricula
-  notas.csv:395 campo vazio: disciplina
-  notas.csv:456 nota inválida ('7.5.0')
-  notas.csv:460 campo vazio: nota
-  notas.csv:464 matrícula inexistente (1000)
+  notas.csv:325 nota inválida ('NA')
+  notas.csv:327 avaliação duplicada 1008/Física/P1
+  notas.csv:331 nota inválida ('oito')
+  notas.csv:343 campo vazio: matricula
+  notas.csv:396 campo vazio: disciplina
+  notas.csv:457 nota inválida ('7.5.0')
+  notas.csv:461 campo vazio: nota
+  notas.csv:465 matrícula inexistente (1000)

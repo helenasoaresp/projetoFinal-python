@@ -1,7 +1,7 @@
 {
   "alunos_processados": 32,
-  "notas_validas": 458,
-  "notas_invalidas": 25,
+  "notas_validas": 457,
+  "notas_invalidas": 27,
   "alunos": [
     {
       "matricula": 1001,
@@ -147,7 +147,7 @@
       "matricula": 1014,
       "nome": "Nicolas Barros",
       "turma": "3B",
-      "media": 4.79,
+      "media": 4.49,
       "situacao": "recuperação"
     },
     {
@@ -232,7 +232,7 @@
     "Física": 6.29,
     "História": 6.31,
     "Inglês": 6.02,
-    "Matemática": 6.34,
+    "Matemática": 6.31,
     "Português": 6.18
   },
   "erros": [
@@ -348,32 +348,42 @@
     },
     {
       "arquivo": "notas.csv",
-      "linha": 330,
+      "linha": 325,
+      "mensagem": "nota inválida ('NA')"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 327,
+      "mensagem": "avaliação duplicada 1008/Física/P1"
+    },
+    {
+      "arquivo": "notas.csv",
+      "linha": 331,
       "mensagem": "nota inválida ('oito')"
     },
     {
       "arquivo": "notas.csv",
-      "linha": 342,
+      "linha": 343,
       "mensagem": "campo vazio: matricula"
     },
     {
       "arquivo": "notas.csv",
-      "linha": 395,
+      "linha": 396,
       "mensagem": "campo vazio: disciplina"
     },
     {
       "arquivo": "notas.csv",
-      "linha": 456,
+      "linha": 457,
       "mensagem": "nota inválida ('7.5.0')"
     },
     {
       "arquivo": "notas.csv",
-      "linha": 460,
+      "linha": 461,
       "mensagem": "campo vazio: nota"
     },
     {
       "arquivo": "notas.csv",
-      "linha": 464,
+      "linha": 465,
       "mensagem": "matrícula inexistente (1000)"
     }
   ]

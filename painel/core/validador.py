@@ -1,3 +1,5 @@
+from math import isfinite
+
 from .entidades import ErroValidacao
 
 
@@ -20,7 +22,7 @@ def validar_nota(valor: str, nota_maxima: float) -> tuple[float | None, str | No
         nota = float(texto)
     except ValueError:
         return None, "nota_invalida"
-    if nota < 0 or nota > nota_maxima:
+    if not isfinite(nota) or nota < 0 or nota > nota_maxima:
         return None, "nota_fora_do_intervalo"
     return nota, None
 
